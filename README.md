@@ -6,7 +6,6 @@
 ![T-SQL](https://img.shields.io/badge/T--SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
  
 ---
  
@@ -271,7 +270,6 @@ data-warehouse-project/
 - Joining CRM and ERP data when the customer and product keys were formatted differently
 - Deciding how to handle NULLs and invalid values without silently losing information
 - Understanding which transformations belong in Silver vs. Gold
-*(Replace or expand these with your own experience, since specific stories stand out in interviews.)*
  
 ---
  
@@ -285,7 +283,7 @@ data-warehouse-project/
 - Migrate to a cloud platform (Azure Synapse, Snowflake, or Databricks)
 ---
  
-## 🙏 Credits & Acknowledgements
+## Credits & Acknowledgements
  
 This project was built by following and learning from the **SQL Data Warehouse Project** by [Data With Baraa](https://www.datawithbaraa.com) ([original repository](https://github.com/DataWithBaraa/sql-data-warehouse-project)). The dataset and project scope come from that course. I implemented the scripts, documented the process, and wrote my own analysis on top of it.
  
